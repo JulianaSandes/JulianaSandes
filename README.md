@@ -1,1 +1,1 @@
-Oi meu nome é Juliana 
+Oi, meu nome é Juliana 
