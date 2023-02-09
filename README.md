@@ -1,7 +1,7 @@
 ## Oi, meu nome é Juliana 🙋‍♀️
 
 - 👩‍🎓 Estudando na FIAP SCHOOL
-- 👩‍💻 Aprendendo HTML E Java Script
+- 👩‍💻 Aprendendo HTML, JavaScript e CSS
 
 ## 
 
