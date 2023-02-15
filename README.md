@@ -1,7 +1,5 @@
-## Oi, meu nome é Juliana 🙋‍♀️
+## Olá, meu nome é Juliana 🙋‍♀️
 
-- 👩‍🎓 Estudando na FIAP SCHOOL
-- 👩‍💻 Aprendendo HTML, JavaScript e CSS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
