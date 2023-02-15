@@ -1,4 +1,4 @@
-## Olá, meu nome é Juliana 🙋‍♀️
+## Olá, meu nome é Juliana
 
 
 <div style="display: inline_block"><br>
