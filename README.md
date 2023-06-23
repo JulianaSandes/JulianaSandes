@@ -23,5 +23,5 @@
 <div> 
   <a href="https://www.instagram.com/ju.sandes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-sandes-4b0975265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFCzFvJQBpXqZXKmRKTlKKDKDdXLrlGVZdCVWCnVLjKhvBMfMQzVHtBllwgGvMbWPtjXB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=CllgCJlFCdNfDGTWdmTWnQbfHPQjfBMJqRwsDkcBXpLCrgThKlkzKCkqHbtXlrWxfvVMLzPQJxq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
