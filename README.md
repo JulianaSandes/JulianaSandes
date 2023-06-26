@@ -1,4 +1,8 @@
+
 # Oii, eu sou a Juliana Sandes
+
+![Linkedin Bakground Banner Design for Professionals](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/f752b996-0239-43fd-b8cb-64826021acb8)
+
 <h3> Sejem bem vindos ao meu perfil!!! </h3>
 <p>
   
