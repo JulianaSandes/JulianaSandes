@@ -7,10 +7,9 @@
 </div>
 
 <h1> Oii, eu sou a Juliana Sandes</h1>
-<h3> Sejem bem vindos ao meu perfil!!! </h3>
-<p>
-  
-</p>
+<h3> Sejem bem vindos ao meu perfil!!!</h3>
+- Cursando o 3° ano do ensino médio técnico
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
