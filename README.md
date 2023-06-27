@@ -1,4 +1,4 @@
-<h1> Oii, eu sou a Juliana Sandes</h1>
+<h1> Oii, eu sou a Juliana Sandes 👋</h1>
 <h3> Sejem bem vindos ao meu perfil!!!</h3>
 
 ![Linkedin Bakground Banner Design for Professionals](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/f752b996-0239-43fd-b8cb-64826021acb8)
@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/juliana-sandes-4b0975265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=CllgCJlFCdNfDGTWdmTWnQbfHPQjfBMJqRwsDkcBXpLCrgThKlkzKCkqHbtXlrWxfvVMLzPQJxq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<h3>Informações </h3>
 
 - Cursando o 3° ano do ensino médio técnico
 
