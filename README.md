@@ -1,7 +1,8 @@
-<h1> Oii, eu sou a Juliana Sandes 👋</h1>
-<h3> Sejem bem vindos ao meu perfil!!!</h3>
 
 ![Linkedin Bakground Banner Design for Professionals](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/f752b996-0239-43fd-b8cb-64826021acb8)
+
+<h1> Oii, eu sou a Juliana Sandes 👋</h1>
+<h3> Sejem bem vindos ao meu perfil!!!</h3>
 
 <div> 
   <a href="https://www.instagram.com/ju.sandes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
