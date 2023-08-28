@@ -1,6 +1,4 @@
 
-![Linkedin Bakground Banner Design for Professionals](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/f752b996-0239-43fd-b8cb-64826021acb8)
-
 <h1> Oii, eu sou a Juliana Sandes 👋</h1>
 <h3> Sejem bem vindos ao meu perfil!!!</h3>
 
@@ -14,7 +12,6 @@
 
 - Cursando o 3° ano do ensino médio técnico
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Juliana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,3 +22,8 @@
   <img align="center" alt="Juliana-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  
   </div>
+
+<br/>
+
+  ![Linkedin Bakground Banner Design for Professionals](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/f752b996-0239-43fd-b8cb-64826021acb8)
+
