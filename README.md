@@ -1,5 +1,4 @@
-  ![Linkedin Bakground Banner Design for Professionals](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/f752b996-0239-43fd-b8cb-64826021acb8)
-
+![Olá, sejam bem vindos!](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/ee868775-ba1e-4057-aadc-f63e5e904f21)
   
 <h1> Oii, eu sou a Juliana Sandes 👋</h1>
 <h3> Sejem bem vindos ao meu perfil!!!</h3>
