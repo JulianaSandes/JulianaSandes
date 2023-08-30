@@ -1,4 +1,5 @@
-![Olá, sejam bem vindos!](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/ee868775-ba1e-4057-aadc-f63e5e904f21)
+![Olá, sejam bem vindos!](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/36dbcb8e-2cba-4f1a-8bbf-3f780dfdba65)
+
   
 <h1> Oii, eu sou a Juliana Sandes 👋</h1>
 
