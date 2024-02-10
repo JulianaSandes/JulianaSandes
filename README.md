@@ -11,7 +11,7 @@
 
 <h3> Sejem bem vindos ao meu perfil!!!</h3>
 
-- Cursando o 3° ano do ensino médio técnico
+- Primeiro semestre Engenharia da Computação
 - Apredendo linguagens de programação
 
 <div style="display: inline_block">
