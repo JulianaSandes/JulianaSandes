@@ -48,7 +48,6 @@
 ### 🌱 Currently Working On
 
 - [ ] Personal portfolio website
-- [ ] React-based applications
 - [ ] Strengthening programming logic
 
 ---
