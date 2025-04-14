@@ -1,17 +1,14 @@
-![Olá, sejam bem vindos!](https://github.com/JulianaSandes/JulianaSandes/assets/84139776/36dbcb8e-2cba-4f1a-8bbf-3f780dfdba65)
-
   
-<h1> Oii, eu sou a Juliana Sandes 👋</h1>
+<h1> Hii, I'm Juliana Sandes 👋</h1>
 
 <div> 
-  <a href="https://www.instagram.com/ju.sandes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julianasandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=CllgCJlFCdNfDGTWdmTWnQbfHPQjfBMJqRwsDkcBXpLCrgThKlkzKCkqHbtXlrWxfvVMLzPQJxq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h3> Sejem bem vindos ao meu perfil!!!</h3>
+<h3> Welcome to my profile!!!</h3>
 
-- Primeiro semestre Engenharia da Computação
+- Trird semestre Engenharia da Computação
 - Apredendo linguagens de programação
 
 <div style="display: inline_block">
