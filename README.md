@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Juliana Sandes</h1>
 <p align="center">
-  <em>Computer Engineering student | Passionate about technology and coding</em>
+  <em>Computer Engineering student | Python | Java | SQL</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE/" target="_blank">
-    <img alt="LinkedIn" src="https://www.linkedin.com/in/julianasandes/style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="https://www.linkedin.com/in/julianasandes/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jubarbosa.sandes@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
