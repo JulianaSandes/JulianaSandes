@@ -1,22 +1,59 @@
-  
-<h1> Hii, I'm Juliana Sandes 👋</h1>
+<h1 align="center">Hi 👋, I'm Juliana Sandes</h1>
+<p align="center">
+  <em>Computer Engineering student | Passionate about technology and coding</em>
+</p>
 
-<div> 
-  <a href="https://www.linkedin.com/in/julianasandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=CllgCJlFCdNfDGTWdmTWnQbfHPQjfBMJqRwsDkcBXpLCrgThKlkzKCkqHbtXlrWxfvVMLzPQJxq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE/" target="_blank">
+    <img alt="LinkedIn" src="https://www.linkedin.com/in/julianasandes/style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<h3> Welcome to my profile!!!</h3>
+---
 
-- Trird semestre Engenharia da Computação
-- Apredendo linguagens de programação
+### 📚 About Me
 
-<div style="display: inline_block">
-  <img align="center" alt="Juliana-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Juliana-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Juliana-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juliana-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Juliana-BS" height="45" width="50" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Juliana-React" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </div>
+- 🎓 Currently in the **3rd semester of Computer Engineering**
+- 💻 Learning programming languages
+- 🚀 Always looking to grow and improve as a developer
+
+---
+
+### 💻 Technologies I'm Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-DB7093?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianaSandes&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaSandes&layout=compact&theme=dracula" height="180" />
+</p>
+
+---
+
+### 🌱 Currently Working On
+
+- [ ] Personal portfolio website
+- [ ] React-based applications
+- [ ] Strengthening programming logic
+
+---
+
+<p align="center">
+  ✨ Thanks for stopping by! ✨
+</p>
