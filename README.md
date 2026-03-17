@@ -15,7 +15,7 @@
 
 ### 📚 About Me
 
-- 🎓 Currently in the **3rd semester of Computer Engineering**
+- 🎓 Currently in the **5rd semester of Computer Engineering**
 - 💻 Learning programming languages
 - 🚀 Always looking to grow and improve as a developer
 
